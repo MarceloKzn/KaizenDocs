@@ -1,0 +1,15 @@
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\bin\Debug\net9.0\CalcSimples.exe
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\bin\Debug\net9.0\CalcSimples.deps.json
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\bin\Debug\net9.0\CalcSimples.runtimeconfig.json
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\bin\Debug\net9.0\CalcSimples.dll
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\bin\Debug\net9.0\CalcSimples.pdb
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.AssemblyInfoInputs.cache
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.AssemblyInfo.cs
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.csproj.CoreCompileInputs.cache
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.sourcelink.json
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.dll
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\refint\CalcSimples.dll
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.pdb
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\CalcSimples.genruntimeconfig.cache
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\exemplos\Calculadora\CalcSimples\obj\Debug\net9.0\ref\CalcSimples.dll
