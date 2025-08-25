@@ -1,0 +1,14 @@
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.AssemblyInfoInputs.cache
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.AssemblyInfo.cs
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.csproj.CoreCompileInputs.cache
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\bin\Debug\net9.0\InventoryList.exe
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\bin\Debug\net9.0\InventoryList.deps.json
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\bin\Debug\net9.0\InventoryList.runtimeconfig.json
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\bin\Debug\net9.0\InventoryList.dll
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\bin\Debug\net9.0\InventoryList.pdb
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.dll
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\refint\InventoryList.dll
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.pdb
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\InventoryList.genruntimeconfig.cache
+D:\.Códigos- Programação\C#\DSA_Training\src\Lists\InventoryList\obj\Debug\net9.0\ref\InventoryList.dll
