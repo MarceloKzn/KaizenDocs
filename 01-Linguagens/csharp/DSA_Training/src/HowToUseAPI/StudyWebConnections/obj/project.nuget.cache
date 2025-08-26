@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbrgBykMuQo=",
+  "dgSpecHash": "JI3BNam38gA=",
   "success": true,
-  "projectFilePath": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\StudyWebConnections.csproj",
+  "projectFilePath": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\StudyWebConnections.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\marcelo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

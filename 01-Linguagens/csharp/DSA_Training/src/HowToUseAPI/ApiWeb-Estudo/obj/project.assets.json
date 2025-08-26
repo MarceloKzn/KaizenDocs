@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\ApiWeb-Estudo\\ApiWeb-Estudo.csproj",
+      "projectUniqueName": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\ApiWeb-Estudo\\ApiWeb-Estudo.csproj",
       "projectName": "ApiWeb-Estudo",
-      "projectPath": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\ApiWeb-Estudo\\ApiWeb-Estudo.csproj",
+      "projectPath": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\ApiWeb-Estudo\\ApiWeb-Estudo.csproj",
       "packagesPath": "C:\\Users\\marcelo\\.nuget\\packages\\",
-      "outputPath": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\ApiWeb-Estudo\\obj\\",
+      "outputPath": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\ApiWeb-Estudo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Programas Favoritos\\tools(visual studio)\\NuGetPackages"

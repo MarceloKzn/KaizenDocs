@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\StudyWebConnections.csproj",
+      "projectUniqueName": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\StudyWebConnections.csproj",
       "projectName": "StudyWebConnections",
-      "projectPath": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\StudyWebConnections.csproj",
+      "projectPath": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\StudyWebConnections.csproj",
       "packagesPath": "C:\\Users\\marcelo\\.nuget\\packages\\",
-      "outputPath": "D:\\.Códigos- Programação\\C#\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\obj\\",
+      "outputPath": "D:\\.Documentos Importantes\\.Github repository's\\KaizenDocs\\01-Linguagens\\csharp\\DSA_Training\\src\\HowToUseAPI\\StudyWebConnections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Programas Favoritos\\tools(visual studio)\\NuGetPackages"
