@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 public class LinkedListTraining
 {
     public class Node
@@ -52,6 +53,47 @@ public class LinkedListTraining
                 atual = atual.next;
             }
             atual.next = novo;
+        }
+
+        public void AddBefore(Node target, int value)
+        {
+            if (head == null || target == null) return;
+
+            if (head == target)
+            {
+                AddFirst(value);
+                return;
+            }
+
+            Node atual = head;
+            while (atual.next != null && atual.next != target)
+            {
+                atual = atual.next;
+            }
+
+            if (atual.next == target)
+            {
+                Node novo = new Node(value, target);
+                atual.next = novo;
+            }
+        }
+
+        public void AddAfter(Node target, int value)
+        {
+            if (head == null || target == null) return;
+
+            Node atual = head;
+            while (atual.next != null && atual != target)
+            {
+                atual = atual.next;
+            }
+
+            if (atual == target)
+            {
+                Node novo = new Node(value, target.next);
+                target.next = novo;
+            }
+
         }
 
         public void Remove(int value)
