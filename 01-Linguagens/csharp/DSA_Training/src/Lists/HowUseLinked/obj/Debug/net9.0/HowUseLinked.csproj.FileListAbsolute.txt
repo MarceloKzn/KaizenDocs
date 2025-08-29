@@ -1,0 +1,15 @@
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\bin\Debug\net9.0\HowUseLinked.exe
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\bin\Debug\net9.0\HowUseLinked.deps.json
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\bin\Debug\net9.0\HowUseLinked.runtimeconfig.json
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\bin\Debug\net9.0\HowUseLinked.dll
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\bin\Debug\net9.0\HowUseLinked.pdb
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.AssemblyInfoInputs.cache
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.AssemblyInfo.cs
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.csproj.CoreCompileInputs.cache
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.sourcelink.json
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.dll
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\refint\HowUseLinked.dll
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.pdb
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\HowUseLinked.genruntimeconfig.cache
+D:\.Documentos Importantes\.Github repository's\KaizenDocs\01-Linguagens\csharp\DSA_Training\src\Lists\HowUseLinked\obj\Debug\net9.0\ref\HowUseLinked.dll

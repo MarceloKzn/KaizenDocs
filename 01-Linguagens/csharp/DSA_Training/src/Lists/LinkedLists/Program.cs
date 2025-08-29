@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text.RegularExpressions;
-public class LinkedListTraining
+private class LinkedListTraining
 {
     public class Node
     {
