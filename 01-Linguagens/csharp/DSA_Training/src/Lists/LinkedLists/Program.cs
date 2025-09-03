@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
-private class LinkedListTraining
+internal class LinkedListTraining
 {
     public class Node
     {
@@ -116,6 +117,19 @@ private class LinkedListTraining
                 }
                 atual = atual.next;
             }
+        }
+
+        public int Find(int target)
+        {
+            if (head == null) return -1;
+
+            Node atual = head;
+            while (atual.next != null && atual.data != target)
+            {
+                atual = atual.next;
+            }
+
+            return atual.data;
         }
 
         public void PrintAll()

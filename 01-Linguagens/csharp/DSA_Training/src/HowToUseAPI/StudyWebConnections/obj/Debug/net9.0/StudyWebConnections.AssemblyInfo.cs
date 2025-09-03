@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyWebConnections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dca79c44cf800b65c7e7bf6066a58e456ba0b173")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2033bfed7ee495cf4a6a60eba684e7335e7655")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyWebConnections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyWebConnections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
